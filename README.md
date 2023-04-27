@@ -15,6 +15,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>&nbsp;
+### My projects
+| Project name | Description | Tools |
+|--------------|-------------|-------|
+| GameRemindersBot | to be filled out later | to be filled out later |
+| GameRemindersFastAPI | to be filled out later | to be filled out later |
+| Python Matrix | to be filled out later | to be filled out later |
+| GUI calculator | to be filled out later | to be filled out later |
+| 3D Viewer | to be filled out later | to be filled out later |
 
 
 
