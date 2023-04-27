@@ -18,11 +18,11 @@
 ### My projects
 | Project name | Description | Tools |
 |--------------|-------------|-------|
-| GameRemindersBot | to be filled out later | to be filled out later |
-| GameRemindersFastAPI | to be filled out later | to be filled out later |
-| Python Matrix | to be filled out later | to be filled out later |
-| GUI calculator | to be filled out later | to be filled out later |
-| 3D Viewer | to be filled out later | to be filled out later |
+| [GameRemindersBot](https://github.com/dmitryvshivtsev/GameRemindersBot) | to be filled out later | to be filled out later |
+| [GameRemindersFastAPI](https://github.com/dmitryvshivtsev/GameRemindersFastAPI) | to be filled out later | to be filled out later |
+| [Python Matrix](https://github.com/dmitryvshivtsev/Python_Matrix) | to be filled out later | to be filled out later |
+| [GUI calculator](https://github.com/dmitryvshivtsev/GUI_Calculator) | to be filled out later | to be filled out later |
+| [3D Viewer](https://github.com/dmitryvshivtsev/Viewer-for-3D-objects) | to be filled out later | to be filled out later |
 
 
 
