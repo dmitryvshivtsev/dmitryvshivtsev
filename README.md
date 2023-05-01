@@ -18,11 +18,11 @@
 ### My projects
 | Project name | Description | Tools |
 |--------------|-------------|-------|
-| [GameRemindersBot](https://github.com/dmitryvshivtsev/GameRemindersBot) | to be filled out later | to be filled out later |
-| [GameRemindersFastAPI](https://github.com/dmitryvshivtsev/GameRemindersFastAPI) | to be filled out later | to be filled out later |
-| [Python Matrix](https://github.com/dmitryvshivtsev/Python_Matrix) | to be filled out later | to be filled out later |
-| [GUI calculator](https://github.com/dmitryvshivtsev/GUI_Calculator) | to be filled out later | to be filled out later |
-| [3D Viewer](https://github.com/dmitryvshivtsev/Viewer-for-3D-objects) | to be filled out later | to be filled out later |
+| [GameRemindersBot](https://github.com/dmitryvshivtsev/GameRemindersBot) | A bot that reminds you of your favorite team's upcoming matches. | Python3.10, aiogram, bs4, PostgreSQL, Docker |
+| [GameRemindersFastAPI](https://github.com/dmitryvshivtsev/GameRemindersFastAPI) | FastAPI-based website using GameRemindersBot functionality. | Python3.10, FastAPI, bs4, PostgreSQL, Docker |
+| [Python Matrix](https://github.com/dmitryvshivtsev/Python_Matrix) | Implementation of a library for processing numeric matrices in the Python programming language. | Python3.10 |
+| [GUI calculator](https://github.com/dmitryvshivtsev/GUI_Calculator) | Implementation of an extended version of the standard calculator using the MVC pattern in the OOP paradigm. | C++, Qt |
+| [3D Viewer](https://github.com/dmitryvshivtsev/Viewer-for-3D-objects) | implementing an application for viewing 3D wireframe models in C++ in the OOP paradigm. | C++, Qt |
 
 
 
