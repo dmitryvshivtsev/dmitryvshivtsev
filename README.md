@@ -1,7 +1,5 @@
 # Hi there
 
-### Codewars stats:
-[![codewars](https://www.codewars.com/users/rosettel_s21/badges/large)](https://www.codewars.com/users/rosettel_s21)
 ### Top languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmitryvshivtsev&theme=city_lights)
 ### Languages and tools:
@@ -16,6 +14,7 @@
 ### My projects
 | Project name | Description | Tools |
 |--------------|-------------|-------|
+| [Pageo](https://github.com/dmitryvshivtsev/pageo) | A Selenium-based library with advanced functionality. | Python3.11, Selenium |
 | [GameRemindersBot](https://github.com/dmitryvshivtsev/GameRemindersBot) | A bot that reminds you of your favorite team's upcoming matches. | Python3.10, aiogram, bs4, PostgreSQL, Docker |
 | [Django_Friends](https://github.com/dmitryvshivtsev/Django_Friends) | API implementation for a service where you can find and add friends. | Python3.10, DRF, PostgreSQL, Docker |
 | [Python Matrix](https://github.com/dmitryvshivtsev/Python_Matrix) | Implementation of a library for processing numeric matrices in the Python programming language. | Python3.10 |
